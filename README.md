@@ -10,6 +10,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
+* [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
@@ -26,6 +27,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Haskell
 
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think
+
+# Hardware
+
+* [Modern Microprocessors: a 90-minute guide](http://www.lighterra.com/papers/modernmicroprocessors/) - probably less than 90 minutes though. An useful, albeit outdated, guide on how CPUs work internally. For when you have no idea what "branch prediction" or "memory hierarchy" are
 
 # Computer Science
 
