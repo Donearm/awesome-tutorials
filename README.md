@@ -7,9 +7,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Table of Contents
 
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
-	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#frontend-D3.js)
+	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
-	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development-haskell)
+	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
 
