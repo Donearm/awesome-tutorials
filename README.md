@@ -10,6 +10,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
+* [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
 
@@ -25,6 +26,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Haskell
 
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think
+
+# Computer Science
+
+* [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) - functions proof (in Swift)
 
 # SEO
 
