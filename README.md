@@ -30,6 +30,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Computer Science
 
 * [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) - functions proof (in Swift)
+* [Logic Literacy](http://matt.might.net/articles/logical-literacy/) - introduction to Logic
 
 # SEO
 
