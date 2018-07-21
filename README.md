@@ -21,6 +21,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
 * [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
+* [Animated US States Border Map](https://github.com/maptime-ams/animated-borders-d3js) - walkthrough in creating an animated US map
 
 # Back-end Development
 
