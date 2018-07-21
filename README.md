@@ -32,6 +32,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) - functions proof (in Swift)
 * [Logic Literacy](http://matt.might.net/articles/logical-literacy/) - introduction to Logic
 * [Mathematical Background](http://www.jfsowa.com/logic/math.htm) - minimum math for computer science
+* [Programmers' Theoretical Minimum](http://vissi.su/translations/programmer-teormin.html) - honestly way beyond the "minimum" but a very useful list of topics by technology to learn (or try to)
 
 # SEO
 
