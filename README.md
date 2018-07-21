@@ -8,6 +8,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#frontend-D3.js)
+* [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
+	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development-haskell)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
 
@@ -17,6 +19,12 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
 * [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
+
+# Back-end Development
+
+## Haskell
+
+* [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think
 
 # SEO
 
