@@ -13,8 +13,9 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Front-end Development
 
 ## D3.js
-	* [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
-	* [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
+
+* [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
+* [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
 
 ------------------------
 
