@@ -6,9 +6,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Table of Contents
 
-* [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#frontend)
+* [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#frontend-D3.js)
-
+* [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
+* [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
 
 # Front-end Development
 
@@ -16,6 +17,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
 * [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
+
+# SEO
+
+* [Google Search Console: The Definitive Guide](https://backlinko.com/google-search-console) - a truly comprehensive and "definitive" guide about the various features of the Google Search Console
+
 
 ------------------------
 
