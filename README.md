@@ -1,6 +1,6 @@
 # awesome-tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome tutorials. It will be updated each time I find a truly well-writtent and clear tutorial. I am not aiming to collect every possible tutorial about development here as it would be a titanic enterprise but the list is ideally restricted to those who are specific to a topic, may it be an aspect of a framework or an algorythm or a specific software/hardware, that are clear, understandable and, optionally, complete. I'm looking more about unofficial tutorials, both because these are harder to find than the official documentations and to give exposure to the authors of them
+A curated list of awesome tutorials. It will be updated each time I find a truly well-writtent and clear tutorial. I am not aiming to collect every possible tutorial about development here as it would be a titanic enterprise but the list is ideally restricted to those who are specific to a topic, may it be an aspect of a framework or an algorythm or a specific software/hardware, that are clear, understandable and, optionally, complete. I'm looking more about unofficial tutorials, both because these are harder to find than the official documentations and to give exposure to the authors of them.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@gianlucadfiore](https://twitter.com/gianlucadfiore). As long as the above guidelines are respected, I'll gladly add your contribution.
 
@@ -19,31 +19,31 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## D3.js
 
-* [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level
-* [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3
-* [Animated US States Border Map](https://github.com/maptime-ams/animated-borders-d3js) - walkthrough in creating an animated US map
-* [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c), [part 2](https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3), [part 3](https://medium.com/@mbostock/command-line-cartography-part-3-1158e4c55a1e), [part 4](https://medium.com/@mbostock/command-line-cartography-part-4-82d0d26df0cf) - how to make thematic maps using D3-geo, TopoJSON and ndjson-cli
+* [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level.
+* [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3.
+* [Animated US States Border Map](https://github.com/maptime-ams/animated-borders-d3js) - walkthrough in creating an animated US map.
+* [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c), [part 2](https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3), [part 3](https://medium.com/@mbostock/command-line-cartography-part-3-1158e4c55a1e), [part 4](https://medium.com/@mbostock/command-line-cartography-part-4-82d0d26df0cf) - how to make thematic maps using D3-geo, TopoJSON and ndjson-cli.
 
 # Back-end Development
 
 ## Haskell
 
-* [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think
+* [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think.
 
 # Hardware
 
-* [Modern Microprocessors: a 90-minute guide](http://www.lighterra.com/papers/modernmicroprocessors/) - probably less than 90 minutes though. An useful, albeit outdated, guide on how CPUs work internally. For when you have no idea what "branch prediction" or "memory hierarchy" are
+* [Modern Microprocessors: a 90-minute guide](http://www.lighterra.com/papers/modernmicroprocessors/) - probably less than 90 minutes though. An useful, albeit outdated, guide on how CPUs work internally. For when you have no idea what "branch prediction" or "memory hierarchy" are.
 
 # Computer Science
 
-* [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) - functions proof (in Swift)
-* [Logic Literacy](http://matt.might.net/articles/logical-literacy/) - introduction to Logic
-* [Mathematical Background](http://www.jfsowa.com/logic/math.htm) - minimum math for computer science
-* [Programmers' Theoretical Minimum](http://vissi.su/translations/programmer-teormin.html) - honestly way beyond the "minimum" but a very useful list of topics by technology to learn (or try to)
+* [Proof in Functions](http://www.fewbutripe.com/swift/math/2015/01/06/proof-in-functions.html) - functions proof (in Swift).
+* [Logic Literacy](http://matt.might.net/articles/logical-literacy/) - introduction to Logic.
+* [Mathematical Background](http://www.jfsowa.com/logic/math.htm) - minimum math for computer science.
+* [Programmers' Theoretical Minimum](http://vissi.su/translations/programmer-teormin.html) - honestly way beyond the "minimum" but a very useful list of topics by technology to learn (or try to).
 
 # SEO
 
-* [Google Search Console: The Definitive Guide](https://backlinko.com/google-search-console) - a truly comprehensive and "definitive" guide about the various features of the Google Search Console
+* [Google Search Console: The Definitive Guide](https://backlinko.com/google-search-console) - a truly comprehensive and "definitive" guide about the various features of the Google Search Console.
 
 
 ------------------------
