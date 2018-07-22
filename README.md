@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
+* [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
@@ -33,6 +34,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Haskell
 
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think.
+
+## Operating Systems
+
+* [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) - an exhaustive introduction about UEFI and how it boots different, and multiples, OSes.
 
 # Hardware
 
