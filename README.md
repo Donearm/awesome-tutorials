@@ -58,6 +58,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Marketing
 
 * [The Ultimate Guide to Google Ads Ad Extensions](https://adespresso.com/blog/guide-google-ads-ad-extensions/) - a clean explanation of each of the Google Ads ad extensions
+* [Google Analytics: A Guide to Setup, Track and Measure Results](https://adespresso.com/blog/google-analytics/) - a beginner guide on how to setup and navigate through Analytics' interface
 
 
 ------------------------
