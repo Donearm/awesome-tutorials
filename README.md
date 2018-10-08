@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
+* [Software](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#software)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
@@ -42,6 +43,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 # Hardware
 
 * [Modern Microprocessors: a 90-minute guide](http://www.lighterra.com/papers/modernmicroprocessors/) - probably less than 90 minutes though. An useful, albeit outdated, guide on how CPUs work internally. For when you have no idea what "branch prediction" or "memory hierarchy" are.
+
+# Software
+
+* [Github Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - a gist on how correctly fork a project and contribuite to it on Github
 
 # Computer Science
 
