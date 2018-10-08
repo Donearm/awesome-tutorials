@@ -16,6 +16,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Software](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#software)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
+* [Marketing](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#marketing)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
 
 # Front-end Development
@@ -58,6 +59,11 @@ If you want to contribute to this list (please do), send me a pull request or co
 # SEO
 
 * [Google Search Console: The Definitive Guide](https://backlinko.com/google-search-console) - a truly comprehensive and "definitive" guide about the various features of the Google Search Console.
+
+# Marketing
+
+* [The Ultimate Guide to Google Ads Ad Extensions](https://adespresso.com/blog/guide-google-ads-ad-extensions/) - a clean explanation of each of the Google Ads ad extensions
+* [Google Analytics: A Guide to Setup, Track and Measure Results](https://adespresso.com/blog/google-analytics/) - a beginner guide on how to setup and navigate through Analytics' interface
 
 
 ------------------------
