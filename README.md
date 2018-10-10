@@ -14,6 +14,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
+* [Formats](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#formats)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
 * [Marketing](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#marketing)
 * [License](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#license)
@@ -50,6 +51,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Logic Literacy](http://matt.might.net/articles/logical-literacy/) - introduction to Logic.
 * [Mathematical Background](http://www.jfsowa.com/logic/math.htm) - minimum math for computer science.
 * [Programmers' Theoretical Minimum](http://vissi.su/translations/programmer-teormin.html) - honestly way beyond the "minimum" but a very useful list of topics by technology to learn (or try to).
+
+# Formats
+
+* [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html) - gentle introduction to GeoJSON and how it compares to similar alternatives.
 
 # SEO
 
