@@ -22,6 +22,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Front-end Development
 
+* [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors) - a clear explanation of what Cross-Origin Resource Share is
+
 ## D3.js
 
 * [Mapping with D3](https://maptimeboston.github.io/d3-maptime/) - a presentation about creating maps with D3. Beginner-level.
