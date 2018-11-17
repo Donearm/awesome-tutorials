@@ -22,6 +22,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Front-end Development
 
+* [A Simple Guide to Getting Started With Grunt](https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt) - simple introduction on Grunt and writing your first Gruntfile.js
 * [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors) - a clear explanation of what Cross-Origin Resource Share is
 
 ## D3.js
