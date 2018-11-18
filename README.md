@@ -35,7 +35,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Javascript
 
-* [ES6 For Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414) - An introduction to the new features of ES6. Short and with plenty of examples.
+* [ES6 For Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414), [part 2](https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7), [part 3](https://hackernoon.com/es6-for-beginners-77bf34bec2d1) - An introduction to the new features of ES6. Short and with plenty of examples.
 
 ## WebAssembly
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
