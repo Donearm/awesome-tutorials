@@ -8,6 +8,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
+	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
@@ -31,6 +32,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3.
 * [Animated US States Border Map](https://github.com/maptime-ams/animated-borders-d3js) - walkthrough in creating an animated US map.
 * [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c), [part 2](https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3), [part 3](https://medium.com/@mbostock/command-line-cartography-part-3-1158e4c55a1e), [part 4](https://medium.com/@mbostock/command-line-cartography-part-4-82d0d26df0cf) - how to make thematic maps using D3-geo, TopoJSON and ndjson-cli.
+
+## Javascript
+
+* [ES6 For Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414) - An introduction to the new features of ES6. Short and with plenty of examples.
 
 ## WebAssembly
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
