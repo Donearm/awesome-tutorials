@@ -9,6 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
+	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
@@ -36,6 +37,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Javascript
 
 * [ES6 For Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414), [part 2](https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7), [part 3](https://hackernoon.com/es6-for-beginners-77bf34bec2d1) - An introduction to the new features of ES6. Short and with plenty of examples.
+
+## MongoDB
+
+* [An Introduction to MongoDB](https://scotch.io/tutorials/an-introduction-to-mongodb) - brief and practical introduction on MongoDB, mostly just installing and the basic commands to interact with the database.
 
 ## WebAssembly
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
