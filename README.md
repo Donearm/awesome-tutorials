@@ -7,6 +7,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## Table of Contents
 
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
+	* [CSS](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#css)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
@@ -26,6 +27,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [A Simple Guide to Getting Started With Grunt](https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt) - simple introduction on Grunt and writing your first Gruntfile.js
 * [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors) - a clear explanation of what Cross-Origin Resource Share is
+
+## CSS
+
+* [CSS gradient possibilities with the background-blend-mode property](http://bennettfeely.com/gradients/) - a gallery with code of the possible uses of colour gradients in CSS
 
 ## D3.js
 
