@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
+	* [Go](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#go)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
@@ -51,6 +52,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
 
 # Back-end Development
+
+## Go
+
+* [Just Tell Me How To Use Go Modules](https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules) - a short and straight to the point introduction to Go modules
 
 ## Haskell
 
