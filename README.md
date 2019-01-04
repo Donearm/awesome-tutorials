@@ -85,6 +85,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Formats
 
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) - a quick reference to Markdown syntax, with an appendix about Github Flavoured Markdown.
 * [More than you ever wanted to know about GeoJSON](https://macwright.org/2015/03/23/geojson-second-bite.html) - gentle introduction to GeoJSON and how it compares to similar alternatives.
 * [The Absolute Minimum Every Software Developer Absolutely Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - beginner's guide to what is Unicode. Very simply written and not technical at all.
 
