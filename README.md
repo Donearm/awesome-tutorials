@@ -73,6 +73,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Software
 
+* [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) - a deep look at how Git internally works.
 * [Github Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - a gist on how correctly fork a project and contribuite to it on Github
 
 # Computer Science
