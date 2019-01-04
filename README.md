@@ -63,7 +63,8 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## Operating Systems
 
-* [About ncurses Colors](https://www.linuxjournal.com/content/about-ncurses-colors-0) - short introduction to how the Linux console paint colors
+* [About ncurses Colors](https://www.linuxjournal.com/content/about-ncurses-colors-0) - short introduction to how the Linux console paint colors.
+* [Parallel processing with Unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - pipelines, xargs and threading in Unix tools.
 * [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) - an exhaustive introduction about UEFI and how it boots different, and multiples, OSes.
 
 # Hardware
