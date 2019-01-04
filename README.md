@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
+	* [C](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#c)
 	* [Go](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#go)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
@@ -52,6 +53,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
 
 # Back-end Development
+
+## C
+
+* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/) - article showing the difference in learning C coming from a higher level language.
 
 ## Go
 
