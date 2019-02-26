@@ -11,6 +11,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
+	* [React](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#react)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [C](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#c)
@@ -49,6 +50,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 ## MongoDB
 
 * [An Introduction to MongoDB](https://scotch.io/tutorials/an-introduction-to-mongodb) - brief and practical introduction on MongoDB, mostly just installing and the basic commands to interact with the database.
+
+## React
+
+* [Intro to React](https://reactjs.org/tutorial/tutorial.html) - the official React tutorial.
 
 ## WebAssembly
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
