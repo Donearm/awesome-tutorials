@@ -14,6 +14,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [React](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#react)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
+	* [Assembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#assembly)
 	* [C](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#c)
 	* [Go](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#go)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
@@ -60,6 +61,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
 
 # Back-end Development
+
+## Assembly
+
+* [NASM Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/) - a concise tutorial on how to write Assembly for x86-64 architecture and integrate it with C.
 
 ## C
 
