@@ -47,6 +47,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [ES6 For Beginners](https://hackernoon.com/es6-for-beginners-f98120b57414), [part 2](https://hackernoon.com/es6-for-beginners-part-2-ee8a77f7f4c7), [part 3](https://hackernoon.com/es6-for-beginners-77bf34bec2d1) - An introduction to the new features of ES6. Short and with plenty of examples.
 * [The Absolute Essentianls for Bit Manipulation in JavaScript](https://lucasfcosta.com/2018/12/25/bitwise-operations.html) - a clarifying tutorial on bitwise operations in JavaScript.
+* [Using Array.prototype.reduce()](https://www.freecodecamp.org/forum/t/using-array-prototype-reduce-to-reduce-conceptual-boilerplate-for-problems-on-arrays/14687/1) - step by step tutorial on the use of `reduce()`.
 
 ## MongoDB
 
