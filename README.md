@@ -9,6 +9,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Front-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#front-end-development)
 	* [CSS](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#css)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
+	* [GraphQL](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#graphql)
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [React](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#react)
@@ -42,6 +43,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [How Selections Work](https://bost.ocks.org/mike/selection/) - about selecting elements in D3.
 * [Animated US States Border Map](https://github.com/maptime-ams/animated-borders-d3js) - walkthrough in creating an animated US map.
 * [Command Line Cartography](https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c), [part 2](https://medium.com/@mbostock/command-line-cartography-part-2-c3a82c5c0f3), [part 3](https://medium.com/@mbostock/command-line-cartography-part-3-1158e4c55a1e), [part 4](https://medium.com/@mbostock/command-line-cartography-part-4-82d0d26df0cf) - how to make thematic maps using D3-geo, TopoJSON and ndjson-cli.
+
+## GraphQL
+
+* [GraphQL in Depth: What, Why and How](https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how) - A not-so-deep introduction on what is and how GraphQL works.
 
 ## Javascript
 
