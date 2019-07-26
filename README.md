@@ -13,6 +13,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [React](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#react)
+	* [Svelte](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#svelte)
 	* [WebAssembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#webassembly)
 * [Back-end Development](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#back-end-development)
 	* [Assembly](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#assembly)
@@ -62,6 +63,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Build Your Own Starter](https://www.javascriptstuff.com/build-your-own-starter/#0-intro) - not exactly a tutorial but a guide on how to build your own basic React+Babel+Webpack+Express starter.
 * [Intro to React](https://reactjs.org/tutorial/tutorial.html) - the official React tutorial.
+
+## Svelte
+
+* [Web Development Simplified with Svelte](https://objectcomputing.com/resources/publications/sett/july-2019-web-dev-simplified-with-svelte) - a comprehensive tutorial on setting up and showing Svelte's features
 
 ## WebAssembly
 * [WebAssembly Physics and DOM Objects](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html#0) - playing with svg and DOM objects in WebAssembly from a C library
