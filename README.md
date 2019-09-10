@@ -36,6 +36,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 ## CSS
 
+* [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - not exactly a tutorial but a great guide/reference to implementing CSS Grid
 * [CSS gradient possibilities with the background-blend-mode property](http://bennettfeely.com/gradients/) - a gallery with code of the possible uses of colour gradients in CSS
 
 ## D3.js
