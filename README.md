@@ -23,6 +23,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
 * [Software](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#software)
+* [Networks](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#networks)
 * [Computer Science](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#computer-science)
 * [Formats](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#formats)
 * [SEO](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#SEO)
@@ -104,6 +105,10 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) - a deep look at how Git internally works.
 * [Github Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - a gist on how correctly fork a project and contribuite to it on Github
+
+# Networks
+
+* [VLANs for sysadmins: the basics](https://www.redhat.com/sysadmin/vlans-sysadmins-basics) - an introduction to VLANs
 
 # Computer Science
 
