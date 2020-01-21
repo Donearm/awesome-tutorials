@@ -34,6 +34,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 * [A Simple Guide to Getting Started With Grunt](https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt) - simple introduction on Grunt and writing your first Gruntfile.js
 * [Do You Really Know CORS?](http://performantcode.com/web/do-you-really-know-cors) - a clear explanation of what Cross-Origin Resource Share is
+* [Web Security Essentials - CORS](https://www.sohamkamani.com/blog/2016/12/21/web-security-cors/) - a shorter but clearer introduction to the whats and whys of CORS
 
 ## CSS
 
