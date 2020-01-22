@@ -109,6 +109,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 # Networks
 
+* [DNS Root Servers: The most critical infrastructure on the internet](https://www.slashroot.in/dns-root-servers-most-critical-infrastructure-internet) - a throughout explanation of what, and where, are DNS root servers
 * [VLANs for sysadmins: the basics](https://www.redhat.com/sysadmin/vlans-sysadmins-basics) - an introduction to VLANs
 
 # Computer Science
