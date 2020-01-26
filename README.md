@@ -1,8 +1,14 @@
 # awesome-tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## What is it?
+
 A curated list of awesome tutorials. It will be updated each time I find a truly well-writtent and clear tutorial. I am not aiming to collect every possible tutorial about development here as it would be a titanic enterprise but the list is ideally restricted to those who are specific to a topic, may it be an aspect of a framework or an algorythm or a specific software/hardware, that are clear, understandable and, optionally, complete. I'm looking more about unofficial tutorials, both because these are harder to find than the official documentations and to give exposure to the authors of them.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@gianlucadfiore](https://twitter.com/gianlucadfiore). As long as the above guidelines are respected, I'll gladly add your contribution.
+
+## For whom is this is?
+
+For everyone, really. Everyone who is interested in computer science, whether it means being a developer, a network administrator, a db administrator, a security researcher and what not.
 
 ## Table of Contents
 
