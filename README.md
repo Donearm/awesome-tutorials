@@ -6,7 +6,7 @@ A curated list of awesome tutorials. It will be updated each time I find a truly
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@gianlucadfiore](https://twitter.com/gianlucadfiore). As long as the above guidelines are respected, I'll gladly add your contribution.
 
-## For whom is this is?
+## For whom is this?
 
 For everyone, really. Everyone who is interested in computer science, whether it means being a developer, a network administrator, a db administrator, a security researcher and what not.
 
