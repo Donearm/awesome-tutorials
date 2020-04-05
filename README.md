@@ -27,6 +27,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 	* [Go](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#go)
 	* [Haskell](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#haskell)
 * [Operating Systems](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#operatingsystems)
+* [DevOps](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#devops)
 * [Hardware](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hardware)
 * [Software](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#software)
 * [Networks](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#networks)
@@ -98,11 +99,15 @@ For everyone, really. Everyone who is interested in computer science, whether it
 
 * [You Could Have Invented Monads! (And Maybe You Already Have.)](http://blog.sigfpe.com/2006/08/you-could-have-invented-monads-and.html) - brief article trying to convey what actually is a monad, and how it is much more common than you might think.
 
-## Operating Systems
+# Operating Systems
 
 * [About ncurses Colors](https://www.linuxjournal.com/content/about-ncurses-colors-0) - short introduction to how the Linux console paint colors.
 * [Parallel processing with Unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - pipelines, xargs and threading in Unix tools.
 * [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) - an exhaustive introduction about UEFI and how it boots different, and multiples, OSes.
+
+# DevOps
+
+* [Docker Images: Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html) - how to make your Docker images as small as possible.
 
 # Hardware
 
