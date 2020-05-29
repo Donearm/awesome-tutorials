@@ -16,6 +16,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 	* [CSS](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#css)
 	* [D3.js](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#d3js)
 	* [GraphQL](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#graphql)
+	* [Hugo](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#hugo)
 	* [Javascript](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#javascript)
 	* [MongoDB](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#mongodb)
 	* [React](https://github.com/Donearm/awesome-tutorials/blob/master/README.md#react)
@@ -58,6 +59,10 @@ For everyone, really. Everyone who is interested in computer science, whether it
 ## GraphQL
 
 * [GraphQL in Depth: What, Why and How](https://ponyfoo.com/articles/graphql-in-depth-what-why-and-how) - A not-so-deep introduction on what is and how GraphQL works.
+
+## Hugo
+
+* [Site Search on the JAMStack with Hugo and Algolia](https://www.bennet.org/blog/site-search-jamstack-hugo-algolia/) _ A step by step guide to implement site search with Algolia for a Hugo-powered static website
 
 ## Javascript
 
