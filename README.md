@@ -124,6 +124,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 * [Five Minute Vimscript](http://andrewscala.com/vimscript/) - a concise introduction to Vimscript
 * [Git from the inside out](https://maryrosecook.com/blog/post/git-from-the-inside-out) - a deep look at how Git internally works.
 * [Github Fork & Pull Request Workflow](https://gist.github.com/Chaser324/ce0505fbed06b947d962) - a gist on how correctly fork a project and contribuite to it on Github
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) - a short book collecting pure bash snippets acting as alternatives to external processes and programs
 
 # Networks
 
