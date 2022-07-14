@@ -130,6 +130,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 
 * [DNS Root Servers: The most critical infrastructure on the internet](https://www.slashroot.in/dns-root-servers-most-critical-infrastructure-internet) - a throughout explanation of what, and where, are DNS root servers
 * [VLANs for sysadmins: the basics](https://www.redhat.com/sysadmin/vlans-sysadmins-basics) - an introduction to VLANs
+* [Rpi-Snmpd-configuration](https://github.com/smford/rpi-snmpd-configuration) - a Github repo to quickly configure SNMPD on a RaspberryPi. More a walkthrough than a tutorial.
 
 # Computer Science
 
