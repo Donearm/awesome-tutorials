@@ -114,6 +114,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 # DevOps
 
 * [Docker Images: Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html), [part 2](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html), [part 3](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html) - a tutorial series on how to make your Docker images as small as possible.
+* [Learning Containers from the Bottom Up](https://iximiuz.com/en/posts/container-learning-path/) - an introduction to how containers work.
 
 # Hardware
 
