@@ -98,7 +98,7 @@ For everyone, really. Everyone who is interested in computer science, whether it
 
 ## Go
 
-* [Just Tell Me How To Use Go Modules](https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules) - a short and straight to the point introduction to Go modules
+* [Just Tell Me How To Use Go Modules](https://www.kablamo.com.au/blog-1/2018/12/10/just-tell-me-how-to-use-go-modules) - a short and straight to the point introduction to Go modules.
 
 ## Haskell
 
@@ -107,10 +107,11 @@ For everyone, really. Everyone who is interested in computer science, whether it
 # Operating Systems
 
 * [About ncurses Colors](https://www.linuxjournal.com/content/about-ncurses-colors-0) - short introduction to how the Linux console paint colors.
-* [A reference guide to ZFS on Archlinux](https://kiljan.org/2018/09/23/a-reference-guide-to-zfs-on-arch-linux/) - a short but exhaustive guide on what needs to be known to use ZFS on Archlinux
+* [A reference guide to ZFS on Archlinux](https://kiljan.org/2018/09/23/a-reference-guide-to-zfs-on-arch-linux/) - a short but exhaustive guide on what needs to be known to use ZFS on Archlinux.
 * [Linux network performance parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - a rundown of sysctl/network parameters in Linux and how to optimize them.
 * [Parallel processing with Unix tools](http://www.pixelbeat.org/docs/unix-parallel-tools.html) - pipelines, xargs and threading in Unix tools.
 * [UEFI boot: how does that actually work, then?](https://www.happyassassin.net/2014/01/25/uefi-boot-how-does-that-actually-work-then/) - an exhaustive introduction about UEFI and how it boots different, and multiples, OSes.
+* [ZFS for Dummies](https://ikrima.dev/dev-notes/homelab/zfs-for-dummies/) - a good introduction and deep explanation of what is ZFS and how it works.
 
 # DevOps
 
